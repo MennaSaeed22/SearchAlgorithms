@@ -9,3 +9,7 @@ This repository contains Python implementations of various search algorithms com
 - Uniform Cost Search (UCS)
 - Greedy Search (in two ways)
 - A Star(A*) Search
+
+## nbviewer Link
+
+https://nbviewer.org/github/Menna2002/SearchAlgorithms/blob/master/Search.ipynb
