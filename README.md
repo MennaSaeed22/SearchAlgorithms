@@ -7,5 +7,5 @@ This repository contains Python implementations of various search algorithms com
 - Breadth-First Search (BFS)
 - Depth-First Search (DFS)
 - Uniform Cost Search (UCS)
-- Greedy Search (two ways)
-- - A* (A_Star) Search
+- Greedy Search (in two ways)
+- A Star(A*) Search
